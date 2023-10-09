@@ -1,3 +1,3 @@
 # playwright_reports
 
-Visit https://ulankar.github.io/trial/playwright-report/
+Visit https://ulankar.github.io/playwright_reports/playwright-report/
